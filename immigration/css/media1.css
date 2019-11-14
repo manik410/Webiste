@@ -1,0 +1,232 @@
+@media only screen and (max-width: 600px)
+{
+button.navbar-toggle {
+    background-color: black;
+    left: 224px;
+    top: 24px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px !important;
+}
+.navbar-brand img {
+    height: 81px;
+    width: 82%;
+   
+    margin-top: -61px;
+}
+.carousel-inner img {
+    vertical-align: middle;
+   
+}
+
+.navbar-nav {
+     margin: -1.5px -15px !important;
+    background: white;
+    z-index: 1;
+    width: 102%;
+    position: absolute;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #f5efef;
+    width: 100%;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+     border-color: white !important; 
+}
+.text {
+    color: #952990;
+    position: absolute;
+    top: 51%;
+    left: 53%;
+    transform: translate(-56%, -54%);
+    font-family: 'Mali',cursive;
+}
+
+.text h2 {
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn1 {
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 10px;
+    border: none;
+    background: #ee4a25;
+    height: 28px;
+    color: black;
+}
+.btn2 {
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 10px;
+    border: none;
+    height: 28px;
+    color: black;
+     background:#952990;
+}
+.overlay {
+
+    background-color: rgba(255,255,255,0.55);
+}
+.p1
+{
+    font-size: 12px;
+}
+.p {
+    font-family: 'Mali', cursive;
+    font-size: 25px;
+    margin-top: 10px;
+    color: #ee4a25;
+    font-weight: bold;
+    text-align: center;
+}
+.man1 img
+{
+    margin-top: 20px;
+}
+.one {
+    margin-top: 20px;
+    height: 300px;
+
+}
+.p2 {
+    margin-top: 20px;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.p3
+{
+    font-size:12px;
+}
+.p4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.price h5
+{
+    font-size:20px;
+}
+.price h2
+{
+    font-size:30px;
+}
+.price h3
+{
+    font-size:20px;
+}
+.work img {
+    width: 25%;
+    margin-bottom: 20px;
+    margin-top: 22px;
+}
+.p5
+{
+    margin-top: 30px;
+    font-size:30px;
+}
+.p6
+{
+    font-size:25px;
+}
+.social1 img {
+    width: 23%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.social
+{
+    height:220px;
+}
+.footer {
+    padding-top: 4px;
+    margin-top: 0px;
+}
+.footer p
+{
+    font-size:12px;
+}
+}
+/*@media only screen and (max-width: 768px)
+{
+.navbar-header {
+    float: left;
+width:18%;
+}
+.navbar-brand img {
+    width: 100%;
+}
+.text
+{
+    left:25%;
+}
+.man1 p
+{
+    font-size: 15px;
+}
+.one
+{
+    height:600px;
+}
+.p2
+{
+    margin-top: 50px;
+    font-size: 45px;
+}
+.p3
+{
+    font-size: 18px;
+}
+.price
+{
+    height:375px;
+}
+.price p
+{
+    font-size: 20px;
+}
+.price button
+{
+    font-size: 25px;
+}
+.price h5
+{
+    font-size: 30px;
+}
+.work img
+{
+    width:15%;
+}
+.work
+{
+    height: 250px;
+}
+.work p
+{
+    font-size: 22px;
+}
+.p7
+{
+    font-size: 18px;
+}
+.social
+{
+    height: 300px;
+}
+.social1 img {
+    width: 20%;
+    margin-top: 40px;
+}
+.footer {
+   
+    padding-top: 9px;
+   
+    font-size: 19px;
+}
+}*/

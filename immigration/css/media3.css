@@ -1,0 +1,144 @@
+@media only screen and (max-width: 600px)
+{
+button.navbar-toggle {
+    background-color: black;
+    left: 224px;
+    top: 24px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px !important;
+}
+.navbar-brand img {
+    height: 81px;
+    width: 82%;
+   
+    margin-top: -61px;
+}
+.carousel-inner img {
+    vertical-align: middle;
+   
+}
+
+.navbar-nav {
+     margin: -1.5px -15px !important;
+    background: white;
+    z-index: 1;
+    width: 102%;
+    position: absolute;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #f5efef;
+    width: 100%;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+     border-color: white !important; 
+}
+.btn1 {
+    margin-top: 18px;
+    font-size: 16px;
+    border-radius: 10px;
+    height: 27px;
+    color: black;
+}
+.btn2
+{
+    margin-top: 10px;
+    font-size:14px;
+}
+.immi img
+{
+    margin-top: 25px;
+    height:300px;
+    margin-left: 2px;
+}
+.immi1 h2
+{
+    font-size:24px;
+}
+.immi1 p
+{
+    font-size:14px;
+}
+.overlay1 {
+    position: absolute;
+    top: 24px;
+    overflow: hidden;
+    width: 98%;
+    height: 301px;
+    transition: 0.3s ease;
+    transform: scale(0);
+    overflow: hidden;
+    border-radius: 10%;
+    margin-right: 8px;
+    margin-left: 2px;
+}
+.text1
+{
+    top: 46%;
+    right: -80%;
+    transform: translate(-15%, 0%);
+}
+.social1 img {
+    width: 23%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.social
+{
+    height:220px;
+}
+.footer {
+    padding-top: 4px;
+    margin-top: 0px;
+}
+.footer p
+{
+    font-size:12px;
+}
+}
+/*
+@media only screen and (max-width: 768px)
+{
+.navbar-header {
+    float: left;
+width:18%;
+}
+.navbar-brand img {
+    width: 100%;
+}
+.immi1 p {
+    font-size: 18px;
+}
+.overlay1:hover .text1 {
+    right: 27%;
+}
+.immi img
+{
+    height: 450px;
+}
+.overlay1
+{
+    height: 450px;
+}
+.overlay1 button
+{
+    font-size: 30px;
+}
+.social
+{
+    height: 300px;
+}
+.social1 img {
+    width: 20%;
+    margin-top: 40px;
+}
+.footer {
+   
+    padding-top: 9px;
+   
+    font-size: 19px;
+}
+}*/

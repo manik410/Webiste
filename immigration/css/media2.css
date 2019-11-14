@@ -1,0 +1,161 @@
+@media only screen and (max-width: 600px)
+{
+button.navbar-toggle {
+    background-color: black;
+    left: 224px;
+    top: 24px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px !important;
+}
+.navbar-brand img {
+    height: 81px;
+    width: 82%;
+   
+    margin-top: -61px;
+}
+.carousel-inner img {
+    vertical-align: middle;
+   
+}
+
+.navbar-nav {
+     margin: -1.5px -15px !important;
+    background: white;
+    z-index: 1;
+    width: 102%;
+    position: absolute;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #f5efef;
+    width: 100%;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+     border-color: white !important; 
+}
+.first h2 {
+    margin-top: 30px;
+    font-size: 36px;
+}
+.first p
+{
+    font-size:15px;
+}
+.first
+{
+    height:300px;
+}
+.third h3
+{
+    font-size:32px;
+    margin-top: 40px;
+}
+.four
+{
+    margin-bottom: 30px;
+}
+.six h3
+{
+    margin-top: 50px;
+}
+.seven h3
+{
+    font-size:32px;
+}
+.social {
+    height: 240px;
+    margin-bottom: 2px;
+}
+.footer {
+    padding-top: 4px;
+    margin-top: 0px;
+}
+.footer p
+{
+    font-size:12px;
+}
+}
+/*
+@media only screen and (max-width: 768px)
+{
+.navbar-header {
+    float: left;
+width:18%;
+}
+.navbar-brand img {
+    width: 100%;
+}
+.social
+{
+    height: 300px;
+}
+.social1 img {
+    width: 20%;
+    margin-top: 40px;
+}
+.footer {
+   
+    padding-top: 9px;
+   
+    font-size: 19px;
+}
+.start-button
+{
+    font-size: 25px;
+}
+.first {
+    height: 300px;
+}
+.second
+{
+    height: 500px;
+}
+.third p
+{
+    font-size: 25px;
+}
+.third h3
+{
+    font-size: 40px;
+}
+.four {
+    height: 500px;
+    margin-bottom: 50px;
+}
+.text
+{
+    font-size: 50px;
+}
+.five {
+    height: 500px;
+}
+.five img
+{
+    height: 100%;
+}
+.six h3
+{
+    margin-top: 45px;
+}
+.six p {
+    margin-left: 36px;
+    font-size: 22px;
+}
+.six ul
+{
+    font-size: 20px;
+}
+.eight
+{
+    margin-left: 100px;
+}
+.eight p {
+    margin-top: 8px;
+    color: purple;
+    font-size: 30px;
+    }
+ 
+}*/

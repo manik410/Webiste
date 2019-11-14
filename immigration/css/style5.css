@@ -1,0 +1,85 @@
+	body
+    {
+        margin:0;
+    }
+    .b
+    {
+        margin:0;
+      width:100%;
+      height:100vh;
+	  font-family: Arial, Helvetica, sans-serif;
+	     background-image: url("../img/slide1.jpg");
+	      background-repeat: no-repeat;
+          background-size:cover;
+           position: fixed;
+	}
+.login {
+    height: 280px;
+    width: 350px;
+    background-color: white;
+    box-shadow:0px 1px 9px 1px rgba(69, 69, 69, 0.97);
+    margin-left: 340px;
+    margin-top: 100px;
+   
+}
+input.d {
+    width: 66%;
+    margin-top: 10px;
+    height:25px;
+    border:2px solid rgba(69, 69, 69, 0.3);
+    color:black;
+    font-family: 'Playfair Display', serif;
+}
+input.d:focus
+{
+    border:2px solid black;
+}
+.d1 {
+    width: 66%;
+    margin-top: 10px;
+    height:30px;
+    border:2px solid rgba(69, 69, 69, 0.3);
+    background-color: #952990d4;
+    color:white;
+    font-size: 15px;
+}
+.d1:hover
+{
+	transform: scale(1.1);
+}
+.d1:focus
+{
+  border:2px solid black;
+}   
+.data
+{
+	height:70px;
+}
+.data h2
+{
+	padding-top:20px;
+	text-align: center;
+	font-family: 'Mali', cursive;
+	color: #952990;
+}
+.data1 {
+    display: flex;
+    margin-left: 80px;
+     color:black;
+     margin-top: 10px;
+}
+.data1 p
+{
+    font-size: 12px;
+}
+.data1 a
+{
+	color: #952990d4;
+	text-decoration: none;
+
+}
+.data1 a:hover
+{
+        color: #952990d4;
+    text-decoration: none;
+}
